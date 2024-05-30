@@ -21,6 +21,8 @@ public class Constantes {
 			System.out.println("Não! Ele(a) não pode tirar carteira.");
 		}
 		
+		scanner.close();
+		
 	}
 
 }
