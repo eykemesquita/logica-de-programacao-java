@@ -1,6 +1,8 @@
-# AlgaWorksContatos
+#### Este repositório contém todo o curso de lógica de programação Java da AlgaWorks, incluindo exemplos práticos e projetos desenvolvidos durante o curso. O objetivo é proporcionar uma compreensão sólida dos conceitos básicos de programação utilizando a linguagem Java.
 
-Este repositório contém todo o curso de lógica de programação Java da AlgaWorks, incluindo exemplos práticos e projetos desenvolvidos durante o curso. O objetivo é proporcionar uma compreensão sólida dos conceitos básicos de programação utilizando a linguagem Java.
+### O projeto abaixo é de finalização do curso de Lógica de Programação em Java
+
+# AlgaWorksContatos
 
 Aplicação para o gerenciamento de contatos.
 
