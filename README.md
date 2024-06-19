@@ -62,15 +62,19 @@ curl -X PUT http://localhost:8080/contatos/{id} -H "Content-Type: application/js
 curl -X DELETE http://localhost:8080/contatos/{id}
 ```
 
-
-Contribuindo
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (git checkout -b feature/fooBar)
-3. Commit suas mudanças (git commit -am 'Add some fooBar')
-4. Faça o push para a branch (git push origin feature/fooBar)
-5. Crie um novo Pull Request
-
-
 ### Obrigado por visitar e ler meu repositório!
 
 ![Agradecimento](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+
+<br></br>
+<br></br>
+CREDENCIAL:⬇️
+<br></br>
+https://app.algaworks.com/certs/QDWLNM3WEX
+
+![Opera Instantâneo_2024-06-19_083100_app algaworks com](https://github.com/eykemesquita/logica-de-programacao-java/assets/88750399/55ca6056-f8b1-46c2-8cbe-f6d6ff2fa7ed)
+
+
+
+
