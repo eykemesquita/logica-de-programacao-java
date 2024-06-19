@@ -69,4 +69,6 @@ Contribuindo
 5. Crie um novo Pull Request
 
 
+### Obrigado por visitar e ler meu repositório!
 
+![Agradecimento](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
