@@ -69,7 +69,4 @@ Contribuindo
 5. Crie um novo Pull Request
 
 
-Licença
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
-Agora você pode copiar este conteúdo e colar diretamente no seu arquivo `README.md`.
