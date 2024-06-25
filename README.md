@@ -62,12 +62,14 @@ curl -X PUT http://localhost:8080/contatos/{id} -H "Content-Type: application/js
 curl -X DELETE http://localhost:8080/contatos/{id}
 ```
 
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 ### Obrigado por visitar e ler meu repositório!
 
 ![Agradecimento](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-
-<br></br>
 <br></br>
 CREDENCIAL:⬇️
 <br></br>
