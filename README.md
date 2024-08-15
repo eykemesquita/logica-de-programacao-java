@@ -73,7 +73,7 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICE
 <br></br>
 CREDENCIAL:⬇️
 <br></br>
-https://app.algaworks.com/certs/QDWLNM3WEX
+[https://app.algaworks.com/certs/QDWLNM3WEX](https://app.algaworks.com/certs/MASR761014)
 
 ![Opera Instantâneo_2024-06-19_083100_app algaworks com](https://github.com/eykemesquita/logica-de-programacao-java/assets/88750399/55ca6056-f8b1-46c2-8cbe-f6d6ff2fa7ed)
 
