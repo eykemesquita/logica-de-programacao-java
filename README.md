@@ -75,8 +75,7 @@ CREDENCIAL:⬇️
 <br></br>
 [https://app.algaworks.com/certs/QDWLNM3WEX](https://app.algaworks.com/certs/MASR761014)
 
-![Screenshot_1](https://github.com/user-attachments/assets/cfcc93b0-368d-463c-ba37-0ab2fb4127e9)
-
+![Screenshot_3](https://github.com/user-attachments/assets/6ba14c05-8a92-4e84-99bb-2ebfae0e9f10)
 
 
 
